@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "Publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/d4e8cd19-e158-4bbb-a14c-4875788a37b4/resourceGroups/devops-linux-appservices/providers/Microsoft.Web/sites/Devops-course-webapp-testgc"
+}
